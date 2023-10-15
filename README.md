@@ -1,2 +1,3 @@
 # Portfolio-example
- Bharat Intern task 3
+
+Portfolio website exmaple using HTML, CSS and JS
